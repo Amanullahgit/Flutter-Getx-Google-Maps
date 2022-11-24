@@ -1,16 +1,28 @@
-# getx_map_flutter
+# Flutter GetX Google Maps & API
 
-A new Flutter project.
+Source Code for Flutter GetX & Google Map Locations.<br>
 
-## Getting Started
+## App Features
+- Retrieve Data From API.<br>
+- Show Location Markers on Map.<br>
+- Web and Android.<br>
+<br>
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+![snap](https://user-images.githubusercontent.com/41961773/203845443-8b70c142-76f3-4695-a756-75111faadce4.png)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+For Step By Step Guide Follow Video Tutorials:
+- [Retrieve Location Data From API in Google Maps - Flutter And Getx](https://bit.ly/3AHgiGk)
+
+## Links used in project:
+
+- [Getx Package](https://bit.ly/3SobWuW)
+- [google_maps_flutter Package](http://bit.ly/2Vu1SYC)
+- [google_maps_flutter_web Package](https://pub.dev/packages/google_maps_flutter_web)
+- [http Package](https://pub.dev/packages/http)
+- [location Package](https://pub.dev/packages/location)
+<br><br>
+
+Feel Free to copy the code and use it.<br><br>
+Don't forget to star the repo and like the video :)
